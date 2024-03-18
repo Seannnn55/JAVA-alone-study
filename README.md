@@ -1,6 +1,8 @@
 # 혼자 공부하는 자바 공부 기록
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/) [![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)](https://www.eclipse.org/)
 
+커밋 메세지 규칙 - https://velog.io/@chojs28/Git-커밋-메시지-규칙
+
 
 ## 목차
 - [x] chap 01
